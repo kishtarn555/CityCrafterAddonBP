@@ -9,6 +9,8 @@
         "is_hidden_in_commands": false 
       }
     },
-    "components": {}
+    "components": {
+      "minecraft:map_color": "#99f2d1"
+    }
   }
 }
